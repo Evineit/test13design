@@ -55,7 +55,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
+  facebook      = "https://www.facebook.com/ThirteenDesignTD"
   email         = "email@example.com"
-  instagram     = "full profile url in instagram"
-  whatsapp      = "wa.me service link"
+  instagram     = "https://www.instagram.com/thirteen.design.13/"
+  whatsapp      = "https://api.whatsapp.com/send?phone=528131400335"
